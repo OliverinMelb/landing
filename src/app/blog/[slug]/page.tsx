@@ -5,16 +5,17 @@ import Image from 'next/image'
 import type { Metadata } from 'next'
 
 interface BlogPostPageProps {
-  params: {
+  params: Promise<{
     slug: string
-  }
+  }>
 }
 
 export async function generateMetadata({ params }: BlogPostPageProps): Promise<Metadata> {
+  const { slug } = await params
   const { data: post } = await supabase
     .from('blog_posts')
     .select('title, summary, image_url')
-    .eq('slug', params.slug)
+    .eq('slug', slug)
     .eq('published', true)
     .single()
 
@@ -36,10 +37,11 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
 }
 
 export default async function BlogPostPage({ params }: BlogPostPageProps) {
+  const { slug } = await params
   const { data: post, error } = await supabase
     .from('blog_posts')
     .select('*')
-    .eq('slug', params.slug)
+    .eq('slug', slug)
     .eq('published', true)
     .single()
 
