@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "services": "服务",
+    "pricing": "价格", 
+    "about": "关于我们",
+    "faq": "常见问题",
+    "blog": "博客",
+    "getHelp": "立即获取帮助"
+  },
+  "hero": {
+    "emergencyBadge": "接受紧急订单",
+    "fastDelivery": "最快6小时",
+    "title": "学术成功",
+    "titleHighlight": "保证",
+    "description": "加入数千名通过我们专业写作服务实现学术目标的学生。24/7支持，100%原创作品，成绩保证和全额退款政策。",
+    "trustIndicators": {
+      "expertWriters": "1000+专业写手",
+      "academicDisciplines": "50+学术学科", 
+      "gradeGuarantee": "成绩保证",
+      "support": "24/7支持",
+      "confidential": "100%保密"
+    },
+    "buttons": {
+      "getFreeQuote": "立即获取免费报价",
+      "chatWeChat": "微信聊天"
+    },
+    "urgencyBanner": {
+      "title": "不要让紧急截止日期给你带来压力",
+      "subtitle": "我们的紧急团队可以在短短6小时内交付高质量的作品"
+    },
+    "rating": {
+      "from": "来自",
+      "students": "学生"
+    }
+  },
+  "services": {
+    "badge": "我们的服务",
+    "title": "全面的学术支持",
+    "subtitle": "从论文到毕业论文，从考试到在线课程 - 我们为您提供所有学科的专业帮助。",
+    "cards": {
+      "essayWriting": {
+        "title": "论文与作业写作",
+        "description": "所有类型的学术论文：论文、作业、实验报告、毕业论文、学位论文等。",
+        "features": [
+          "100%原创内容",
+          "包含Turnitin报告", 
+          "免费修改"
+        ]
+      },
+      "examTaking": {
+        "title": "考试代考",
+        "description": "专业考试协助，IP匹配和安全的ProctorU解决方案，涵盖所有学科。",
+        "features": [
+          "安全匿名",
+          "涵盖所有学科",
+          "成绩保证"
+        ]
+      },
+      "courseManagement": {
+        "title": "在线课程管理",
+        "description": "春、夏、秋、冬学期的完整学期管理，保证全勤。",
+        "features": [
+          "全学期支持",
+          "讨论帖子",
+          "小组项目"
+        ]
+      },
+      "tutoring": {
+        "title": "一对一辅导",
+        "description": "个性化辅导，用于考试准备、研究指导和概念理解。",
+        "features": [
+          "专业导师",
+          "灵活安排",
+          "概念澄清"
+        ]
+      }
+    },
+    "additional": {
+      "researchPapers": {
+        "title": "研究论文",
+        "description": "深入研究，采用APA、MLA、Chicago、Harvard格式的正确引用和格式。"
+      },
+      "deadlineGuarantee": {
+        "title": "截止日期保证", 
+        "description": "我们总是按时交付。如果我们错过您的截止日期，您将获得全额退款 - 无需问询。"
+      },
+      "premiumQuality": {
+        "title": "优质质量",
+        "description": "每篇论文都由具有高级学位和多年经验的学科专家撰写。"
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "客户评价",
+    "title": "受到全球学生信赖",
+    "subtitle": "加入数千名通过我们的帮助实现学术成功的学生",
+    "stats": {
+      "expertWriters": "专业写手",
+      "academicDisciplines": "学术学科",
+      "successRate": "成功率", 
+      "customerSupport": "客户支持"
+    }
+  },
+  "pricing": {
+    "badge": "价格",
+    "title": "透明定价",
+    "subtitle": "以实惠的价格提供优质的学术帮助，无隐藏费用",
+    "startingPrice": "起价¥0.55每字",
+    "priceNote": "价格因学术水平、难度和截止日期而异",
+    "included": {
+      "title": "包含内容：",
+      "items": [
+        "100%原创内容",
+        "Turnitin报告",
+        "AI检测报告", 
+        "免费修改（7天）"
+      ]
+    },
+    "guarantee": {
+      "title": "成绩保证：",
+      "items": [
+        "不及格全额退款",
+        "部分达标部分退款",
+        "2个月保证期",
+        "无需询问"
+      ]
+    },
+    "delivery": {
+      "title": "快速交付：",
+      "items": [
+        "紧急：6小时",
+        "加急：12-24小时", 
+        "标准：3-7天",
+        "提前订单享受折扣"
+      ]
+    },
+    "getQuote": "获取定制报价"
+  },
+  "about": {
+    "badge": "关于我们",
+    "title": "由学生创立，为学生服务",
+    "description": "Triadessay由来自宾州州立大学、纽约大学和特拉华大学的学生在纽约创立。我们理解您面临的学术压力，因为我们曾经历过。",
+    "features": [
+      {
+        "title": "顶尖大学的专业写手",
+        "description": "我们的写手都是来自全球QS500大学的毕业生"
+      },
+      {
+        "title": "严格的质量控制", 
+        "description": "每篇论文都会经过学术助教的二次审核"
+      },
+      {
+        "title": "全球覆盖",
+        "description": "为美国、英国、加拿大、澳大利亚、新西兰、新加坡、马来西亚的学生提供服务"
+      }
+    ],
+    "whyChoose": {
+      "title": "为什么选择Triadessay？",
+      "stats": {
+        "originalContent": "原创内容",
+        "customerSatisfaction": "客户满意度",
+        "onTimeDelivery": "按时交付",
+        "supportAvailability": "支持可用性", 
+        "moneyBackGuarantee": "退款保证"
+      }
+    }
+  },
+  "cta": {
+    "title": "准备提升您的成绩了吗？",
+    "subtitle": "加入数千名成功学生的行列。立即获得学术作业的专业帮助。",
+    "buttons": {
+      "startOrder": "开始订单",
+      "getConsultation": "获取免费咨询"
+    },
+    "contact": {
+      "email": {
+        "title": "邮箱",
+        "value": "triadessay@gmail.com"
+      },
+      "wechat": {
+        "title": "微信", 
+        "value": "扫描二维码"
+      },
+      "telegram": {
+        "title": "Telegram",
+        "value": "@triadessay"
+      }
+    }
+  },
+  "footer": {
+    "description": "专业的学术写作服务，在纽约成立。您的成功是我们的使命。",
+    "address": "地址：纽约州纽约市西40街264号，10018",
+    "services": {
+      "title": "服务",
+      "essayWriting": "论文写作",
+      "assignmentHelp": "作业帮助",
+      "examTaking": "考试代考",
+      "onlineCourses": "在线课程",
+      "tutoring": "辅导"
+    },
+    "subjects": {
+      "title": "学科",
+      "business": "商科",
+      "engineering": "工程学", 
+      "psychology": "心理学",
+      "computerScience": "计算机科学",
+      "medicine": "医学"
+    },
+    "contact": {
+      "title": "联系方式",
+      "email": "邮箱：triadessay@gmail.com",
+      "wechat": "微信：24/7在线",
+      "telegram": "Telegram：@triadessay", 
+      "support": "支持：24/7客户服务"
+    },
+    "copyright": "© 2025 Triadessay. 保留所有权利。| 所有材料仅供参考和教育目的。"
+  }
+} 

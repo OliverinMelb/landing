@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "services": "Services",
+    "pricing": "Pricing", 
+    "about": "About",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "getHelp": "Get Help Now"
+  },
+  "hero": {
+    "emergencyBadge": "Emergency Orders Accepted",
+    "fastDelivery": "As Fast as 6 Hours",
+    "title": "Academic Success",
+    "titleHighlight": "Guaranteed",
+    "description": "Join thousands of students who achieved their academic goals with our expert writing services. 24/7 support, 100% original work, and grade guarantees with full refund policy.",
+    "trustIndicators": {
+      "expertWriters": "1000+ Expert Writers",
+      "academicDisciplines": "50+ Academic Disciplines", 
+      "gradeGuarantee": "Grade Guarantee",
+      "support": "24/7 Support",
+      "confidential": "100% Confidential"
+    },
+    "buttons": {
+      "getFreeQuote": "Get Free Quote Now",
+      "chatWeChat": "Chat on WeChat"
+    },
+    "urgencyBanner": {
+      "title": "Don't let tight deadlines stress you out",
+      "subtitle": "Our emergency team can deliver quality work in as little as 6 hours"
+    },
+    "rating": {
+      "from": "from",
+      "students": "students"
+    }
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Complete Academic Support",
+    "subtitle": "From essays to dissertations, exams to online courses - we've got you covered with expert help across all subjects.",
+    "cards": {
+      "essayWriting": {
+        "title": "Essay & Assignment Writing",
+        "description": "All types of academic papers: Essays, Assignments, Lab Reports, Dissertations, Thesis, and more.",
+        "features": [
+          "100% Original Content",
+          "Turnitin Report Included", 
+          "Free Revisions"
+        ]
+      },
+      "examTaking": {
+        "title": "Exam & Test Taking",
+        "description": "Expert exam assistance with IP matching and secure ProctorU solutions for all subjects.",
+        "features": [
+          "Secure & Anonymous",
+          "All Subjects Covered",
+          "Grade Guaranteed"
+        ]
+      },
+      "courseManagement": {
+        "title": "Online Course Management",
+        "description": "Complete semester management for Spring, Summer, Fall, Winter courses with full attendance.",
+        "features": [
+          "Full Semester Support",
+          "Discussion Posts",
+          "Group Projects"
+        ]
+      },
+      "tutoring": {
+        "title": "1-on-1 Tutoring",
+        "description": "Personalized tutoring for exam prep, research guidance, and concept understanding.",
+        "features": [
+          "Expert Tutors",
+          "Flexible Scheduling",
+          "Concept Clarification"
+        ]
+      }
+    },
+    "additional": {
+      "researchPapers": {
+        "title": "Research Papers",
+        "description": "In-depth research with proper citations and formatting in APA, MLA, Chicago, Harvard styles."
+      },
+      "deadlineGuarantee": {
+        "title": "Deadline Guarantee", 
+        "description": "We always deliver on time. If we miss your deadline, you get a full refund - no questions asked."
+      },
+      "premiumQuality": {
+        "title": "Premium Quality",
+        "description": "Every paper is written by subject experts with advanced degrees and years of experience."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Trusted by Students Worldwide",
+    "subtitle": "Join thousands who achieved academic success with our help",
+    "stats": {
+      "expertWriters": "Expert Writers",
+      "academicDisciplines": "Academic Disciplines",
+      "successRate": "Success Rate", 
+      "customerSupport": "Customer Support"
+    }
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "title": "Transparent Pricing",
+    "subtitle": "Quality academic help at affordable rates with no hidden fees",
+    "startingPrice": "Starting from ¥0.55 per word",
+    "priceNote": "Price varies by academic level, difficulty, and deadline",
+    "included": {
+      "title": "What's Included:",
+      "items": [
+        "100% Original Content",
+        "Turnitin Report",
+        "AI Detection Report", 
+        "Free Revisions (7 days)"
+      ]
+    },
+    "guarantee": {
+      "title": "Grade Guarantee:",
+      "items": [
+        "Full refund if not PASS",
+        "Partial refund for partial goals",
+        "2-month guarantee period",
+        "No questions asked"
+      ]
+    },
+    "delivery": {
+      "title": "Fast Delivery:",
+      "items": [
+        "Emergency: 6 hours",
+        "Rush: 12-24 hours", 
+        "Standard: 3-7 days",
+        "Early orders get discounts"
+      ]
+    },
+    "getQuote": "Get Custom Quote"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Founded by Students, For Students",
+    "description": "Triadessay was established in New York by students from Penn State, NYU, and University of Delaware. We understand the academic pressure you face because we've been there.",
+    "features": [
+      {
+        "title": "Expert Writers from Top Universities",
+        "description": "Our writers are graduates from QS500 universities worldwide"
+      },
+      {
+        "title": "Rigorous Quality Control", 
+        "description": "Every paper goes through secondary review by academic TAs"
+      },
+      {
+        "title": "Global Coverage",
+        "description": "Serving students in USA, UK, Canada, Australia, New Zealand, Singapore, Malaysia"
+      }
+    ],
+    "whyChoose": {
+      "title": "Why Choose Triadessay?",
+      "stats": {
+        "originalContent": "Original Content",
+        "customerSatisfaction": "Customer Satisfaction",
+        "onTimeDelivery": "On-time Delivery",
+        "supportAvailability": "Support Availability", 
+        "moneyBackGuarantee": "Money-back Guarantee"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Boost Your Grades?",
+    "subtitle": "Join thousands of successful students. Get expert help with your academic assignments today.",
+    "buttons": {
+      "startOrder": "Start Your Order",
+      "getConsultation": "Get Free Consultation"
+    },
+    "contact": {
+      "email": {
+        "title": "Email",
+        "value": "triadessay@gmail.com"
+      },
+      "wechat": {
+        "title": "WeChat", 
+        "value": "Scan QR Code"
+      },
+      "telegram": {
+        "title": "Telegram",
+        "value": "@triadessay"
+      }
+    }
+  },
+  "footer": {
+    "description": "Professional academic writing services established in New York. Your success is our mission.",
+    "address": "Address: 264 W 40th St, NY, 10018",
+    "services": {
+      "title": "Services",
+      "essayWriting": "Essay Writing",
+      "assignmentHelp": "Assignment Help",
+      "examTaking": "Exam Taking",
+      "onlineCourses": "Online Courses",
+      "tutoring": "Tutoring"
+    },
+    "subjects": {
+      "title": "Subjects",
+      "business": "Business",
+      "engineering": "Engineering", 
+      "psychology": "Psychology",
+      "computerScience": "Computer Science",
+      "medicine": "Medicine"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email: triadessay@gmail.com",
+      "wechat": "WeChat: Available 24/7",
+      "telegram": "Telegram: @triadessay", 
+      "support": "Support: 24/7 Customer Service"
+    },
+    "copyright": "© 2025 Triadessay. All rights reserved. | All materials are for reference and educational purposes only."
+  }
+} 
